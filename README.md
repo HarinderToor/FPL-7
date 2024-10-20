@@ -1,5 +1,8 @@
 # Code Task - The Magnificent 7
 
+- poetry install 
+- then visit http://127.0.0.1:8000/magnificent-7/ and team http://127.0.0.1:8000/magnificent-7/brighton/
+
 ## Todo ideas
 
 - Finish tests
